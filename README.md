@@ -1,4 +1,8 @@
 # VEXSizingTool
+
+
+THE BOTTOM MIDDLE PIECE IS MISSING FIX IT KARSON SELF NOTE AND ADD LIKE DXF OR OTHER FILES AND THE MOST RECENT FILES MAYBEEE
+
 This is the sizing tool made for the 2025-26 VEX Push Back Game by myself that could be utilized beyond just Push Back
 
 This was initially cut out of wood with a laser kerf of about 0.020"-0.025" on a 36" wide sheet.
